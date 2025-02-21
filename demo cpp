@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+  str::cout<<"Hellow word";
+return 0
+}
