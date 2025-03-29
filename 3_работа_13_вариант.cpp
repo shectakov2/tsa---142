@@ -29,6 +29,10 @@ double getY(const double x);
  */
 bool isDomain(const double x);
 
+/**
+ *@brief - Точка входа в программу 
+ *@return - возвращает 0, если программа выполнена корректно
+ */
 int main() 
 {
     cout << "Enter xn: ";
