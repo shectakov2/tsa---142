@@ -119,7 +119,7 @@ double sumN(const int n)
     double current = 1.0; 
     double sum = current;
     
-    for (int k = 0; k < n; ++k) 
+    for (int k = 0; k < n; k++) 
     { 
         current = getNext(current, k); 
         sum += current;
