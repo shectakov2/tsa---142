@@ -82,7 +82,7 @@ void replaceEvenWithMaxAbsColumn(int** array, size_t m, size_t n);
  * @param array Исходный массив
  * @param m Количество строк
  * @param n Количество столбцов
- * @param[out] new_n Количество столбцов в новом массиве
+ * @param new_n Количество столбцов в новом массиве
  */
 int** removeColumnsWithEvenFirst(int** array, size_t m, size_t n, size_t& new_n);
 
